@@ -20,7 +20,7 @@ public class Move : MonoBehaviour
     public Vector3 machinePosition = new Vector3(0, 0, 0);
 
     //Variables that affect the machine's movement patterns and constrain it to the game screen
-    float directionChangeChance = 0.01f;
+    float directionChangeChance = 0.001f;
     private bool moving = false;
     public float boundaryEdge = 8f;
 
