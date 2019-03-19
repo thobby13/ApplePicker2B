@@ -4,6 +4,8 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
+//Comment added to test merging branches
+
 public class AudioManager : MonoBehaviour
 {
     public Slider Music;
